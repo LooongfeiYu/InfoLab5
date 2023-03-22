@@ -17,4 +17,5 @@ public class InfoLab5 {
         // TODO code application logic here
     }
     
+    
 }
